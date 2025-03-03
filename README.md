@@ -94,6 +94,7 @@ cd BAD_DATA
 ### **2️⃣ Install Dependencies**
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn xgboost
+pip install -r reuirements.txt
 ```
 
 ### **3️⃣ Run the Jupyter Notebook**
